@@ -110,7 +110,7 @@ a[href="#"] {
 .main-content {
     flex: 1 1 auto;
 }
-
+/*here is the media query from p. 97 FEWD... last worked on July 2nd, 2017*/
 @media all and (min-width: 768px) {
     .main-content {
         flex-direction: row;
